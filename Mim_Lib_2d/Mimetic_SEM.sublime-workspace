@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"y"
+			],
+			[
+				"np",
+				"numpy\tmodule"
+			],
+			[
+				"e",
+				"empty\tfunction"
+			],
+			[
+				"num",
+				"numpy\tmodule"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"p",
+				"py"
+			],
+			[
+				"Soda",
+				"soda_classic_tabs"
+			],
+			[
+				"fals",
+				"flatland_square_tabs"
+			],
+			[
+				"P-",
+				"PN-corner_seg"
+			],
+			[
+				"M0",
+				"M_0"
+			],
+			[
+				"corner",
+				"corner_seg"
+			],
+			[
+				"M_",
+				"M_corner"
+			],
+			[
+				"truf",
+				"trufq_co"
+			],
+			[
+				"tru",
+				"trufq_co"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Mimetic_SEM.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python2.7.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.6.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/MATLAB_BUILD.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MATLAB_BUILD.sublime-build",
+					"Publish Matlab"
+				],
+				[
+					"Packages/User/MATLAB_BUILD.sublime-build",
+					"Open published Matlab"
+				]
+			],
+			[
+				"Packages/User/MATLAB_BUILD.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					"Publish Matlab"
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					"Open published Matlab"
+				]
+			],
+			[
+				"Packages/User/Matlab.sublime-build",
+				"Publish Matlab"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Matlab2015b.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Matlab2015b.sublime-build",
+					"Publish Matlab"
+				],
+				[
+					"Packages/User/Matlab2015b.sublime-build",
+					"Open published Matlab"
+				]
+			],
+			[
+				"Packages/User/Matlab2015b.sublime-build",
+				"Publish Matlab"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Package Control.cache/Matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Package Control.cache/Matlab.sublime-build",
+					"Publish Matlab"
+				],
+				[
+					"Packages/User/Package Control.cache/Matlab.sublime-build",
+					"Open published Matlab"
+				]
+			],
+			[
+				"Packages/User/Package Control.cache/Matlab.sublime-build",
+				"Publish Matlab"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 316.0,
+		"last_filter": "Package Control: pac",
+		"selected_items":
+		[
+			[
+				"Package Control: pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Build With: Python"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pci",
+				"Package Control: Remove Repository"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help()",
+			"help",
+			"helo",
+			"quit()",
+			"python",
+			"true",
+			"'highlight'",
+			"'highlight' true",
+			"\"highlight_line\": true",
+			"true",
+			"\"highlight\"",
+			"highlight",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielliu/Documents/Books/Thesis/Mim_Lib_2d"
+	],
+	"file_history":
+	[
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/boundaries.py",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/coboundaries.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/danielliu/Downloads/10.1023%2FA%3A1014816109110.bib",
+		"/Users/danielliu/Downloads/siam_sjoce317_1135.bib",
+		"/Users/danielliu/Downloads/siam_sjoce322_1318.bib",
+		"/Users/danielliu/Downloads/siam_1.9780898718881.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/Research methodology/LaTeX/AE4010_Template_Bibliography.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/Research methodology/bib.bib",
+		"/Users/danielliu/Downloads/siam_1.9781611973846.bib",
+		"/Users/danielliu/Downloads/siam_1.9780898718027.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/literature_study/bib.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/Preconditioning.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/Mimetic Discretisation.bib",
+		"/Users/danielliu/Documents/Books/Thesis/Literature/Mimetic Finite Element Method.bib",
+		"/Users/danielliu/Desktop/mimeticfem/src/div_grad_scalar.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/mesh.py",
+		"/Users/danielliu/Desktop/Python_play/def.py",
+		"/Users/danielliu/Desktop/Dan_Mim/legendre_functions.py",
+		"/Users/danielliu/Desktop/Dan_Mim/polynomials.py",
+		"/Users/danielliu/Desktop/Dan_Mim/basis_forms.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/inner_product.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/basis_forms.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/legendre_functions.py",
+		"/Users/danielliu/Documents/MATLAB/Basisfunction/nodalbasis.m",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Matlab2015b.sublime-build",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/basis_0_form_test.py",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/path_magic.py",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/basis_2_form_test.py",
+		"/Users/danielliu/Documents/Books/Thesis/Test case/crazy_mesh_test.py",
+		"/Users/danielliu/Documents/Books/Thesis/Test case/quadrature.py",
+		"/Users/danielliu/Documents/Books/Thesis/Test case/basis_0_form_test.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Python2.7.sublime-build",
+		"/Users/danielliu/Documents/Books/Thesis/Test case/mesh.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/import.py",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/basis_1_form_test.py",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/math.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/python3.6.sublime-build",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/manufactured_anisotropic_poisson_test.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/Python Open Module (New)/Python Open Module (New).sublime-settings",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/src/tests/Tests_Yi/DualGrids_Possion_div_grad_11.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/danielliu/Documents/Books/Thesis/mimeticfem/scheme.txt",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/Users/danielliu/Desktop/mimeticfem/src/test.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/tests/sand_shale_case_extended_gauss_test.py",
+		"/Users/danielliu/Desktop/mimeticfem/src/function_space.py",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/danielliu/Documents/Books/Aerodynamics/CFD1/project/version1/NS_solver_skeleton.m",
+		"/Users/danielliu/Documents/Books/Aerodynamics/CFD1/project/NS_solver_skeleton.m",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Matlab.sublime-build",
+		"/Users/danielliu/NS_solver_skeleton_test.m",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/MATLAB_BUILD.sublime-build",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Matlab.sublime-build",
+		"/Applications/SU2-master/Makefile",
+		"/Users/danielliu/startMacOpenFOAM+",
+		"/Users/danielliu/cavity/system/fvSolution",
+		"/Users/danielliu/cavity/system/fvSchemes",
+		"/Users/danielliu/cavity/system/controlDict",
+		"/Users/danielliu/cavity/system/blockMeshDict",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/interface/rotor_model_30rotors.scm",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/untitled.matlab",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/rotor_model_v12.4beta.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/interface/rotor_model_v90.scm",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/rotor_model_v10.0.sublime-workspace",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/rotor_model_v10.0.sublime-project",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/Code.pdf",
+		"/Volumes/KINGSTON/CORECCCCC/FLUENT/rotor_model_v10.5.c",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/dat21.dat",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/dat40.dat",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/dat30.dat",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/dat25.dat",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/dat18.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/18.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/dat40.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/dat30.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/dat25.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/dat21.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/dat18.dat",
+		"/Users/danielliu/Documents/MATLAB/AirfoilSmoother/naca0015.dat",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Goldwind/VBM/vbm_tutorial_fluent6/vbm_tutorial_fluent63/files/rotor_model_v10.0.c",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/naca0015.dat",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/18.dat",
+		"/Volumes/KINGSTON/CORECCCCC/rotor_model_v12.4beta.c",
+		"/Volumes/KINGSTON/CORECCCCC/DAT/rotor_model_v12.4beta.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/rotor_model_v12.3.c",
+		"/Users/danielliu/Desktop/rotor_model_v90.scm",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Goldwind/VBM/vbm_tutorial_fluent6/vbm_tutorial_fluent63/files/naca0015.dat",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/rotor_model_v13_parallel.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Report/rotor_model_30rotors.scm",
+		"/Volumes/KINGSTON/rotor_model_v10.0.c",
+		"/Users/danielliu/Documents/MATLAB/fluent.msh",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/Default (OSX).sublime-keymap",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Model/rotor_model_v10.0.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/model.c/31rotors_final.c",
+		"/Volumes/KINGSTON/CORECCCCC/31rotors_final.c",
+		"/Volumes/KINGSTON/CORECCCCC/rotor_model_30rotors.scm",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/31rotors_final.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/rotor_model_30rotors.scm",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/31rotors.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/rotor_model_v10.0.sublime-project",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/danielliu/Library/Application Support/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/rotor_model_v10.0.c",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Model/rotor_model_v90.scm",
+		"/Users/danielliu/Documents/Career/Internship_Goldwind/Core Code/rotor_model_v90.scm",
+		"/Users/danielliu/Desktop/Model/rotor_model_v90.scm",
+		"/Users/danielliu/Desktop/Model/rotor_model_v10.0.c"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Mimetic_SEM.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 106.0
+	},
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 406.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "Mimetic_SEM.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

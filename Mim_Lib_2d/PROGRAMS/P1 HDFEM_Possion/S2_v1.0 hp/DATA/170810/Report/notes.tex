@@ -1,0 +1,123 @@
+\documentclass[a4paper]{report}
+\input{pre.tex}
+\input{my_math_shortcut.tex}
+\begin{document}
+\pagestyle{IHA-fancy-style}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Scalar Poisson}
+$ h- $convergence:
+\begin{figure}[h!]
+	\centering{
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../h_convergence/h_p0_L2}
+			\end{minipage}
+		}
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../h_convergence/h_dp0_L2}
+			\end{minipage}
+		}\\
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../h_convergence/h_p0_H}
+			\end{minipage}
+		}
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../h_convergence/h_u_H}
+			\end{minipage}
+		}\\
+		\subfloat{
+		\begin{minipage}[t]{0.5\textwidth}
+			\centering
+			\includegraphics[width=1\linewidth]{../h_convergence/h_u_L2}
+		\end{minipage}
+		}
+		\subfloat{
+		\begin{minipage}[t]{0.5\textwidth}
+			\centering
+			\includegraphics[width=1\linewidth]{../h_convergence/h_du_L2}
+		\end{minipage}
+		}
+		\caption{The $ h- $convergence.}
+		\label{Fig: h convergence}
+	}
+\end{figure}
+
+
+$ p- $convergence:
+\begin{figure}[h!]
+	\centering{
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_p0_L2}
+			\end{minipage}
+		}
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_dp0_L2}
+			\end{minipage}
+		}\\
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_p0_H}
+			\end{minipage}
+		}
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_u_H}
+			\end{minipage}
+		}\\
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_u_L2}
+			\end{minipage}
+		}
+		\subfloat{
+			\begin{minipage}[t]{0.5\textwidth}
+				\centering
+				\includegraphics[width=1\linewidth]{../p_convergence/p_du_L2}
+			\end{minipage}
+		}
+		\caption{The $ p- $convergence.}
+		\label{Fig: p convergence}
+	}
+\end{figure}
+
+\clearpage
+Time efficiency:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../TIME_comparison/cost_comp}
+	\caption{time efficiency comparison}
+	\label{fig:costcomp}
+\end{figure}
+
+Condition number:
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../COND_NUM/COND_NUM}
+	\caption{Condition number of the system for $ \phi $}
+	\label{fig:condnum}
+\end{figure}
+
+
+
+%\clearpage
+%\bibliographystyle{apalike}
+%\bibliographystyle{abbrv}
+%\addcontentsline{toc}{chapter}{References}
+%\bibliography{C:/Users/yzhang24/Dropbox/Materials/library}
+
+\label{TheLastPage}
+\end{document}

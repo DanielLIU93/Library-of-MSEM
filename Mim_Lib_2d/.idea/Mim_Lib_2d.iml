@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/MESHES" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NUMBERING" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FORMS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BIN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TOOLS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FORMS/Ext_Gauss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FORMS/Lobatto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FORMS/Gauss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRAMS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRAMS/P1 HDFEM_Possion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRAMS/P1 HDFEM_Possion/S2_v1.0 hp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRAMS/P1 HDFEM_Possion/S1_v1.0 lp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PROGRAMS/P1 HDFEM_Possion/S0_non_hybrid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterative" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Test Case Setup}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Scalar Laplace Equation (Poisson Equation)}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Discretisation of Poisson Equation}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Gradient Equation: $\boldsymbol {d} \phi ^{(0)} = \boldsymbol {u^{(1)}}$}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Divergence Equation: $\boldsymbol {d\mathaccentV {tilde}07E{q}^{(n-1)}} = -f^{(n)}$}{3}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Constitutive Relation: $\star \boldsymbol {u^{(1)}} = \boldsymbol {\mathaccentV {tilde}07E{q}^{(n-1)}}$}{3}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Final Discrete Equation System}{4}{subsubsection.1.2.4}
+\contentsline {section}{\numberline {2}Analysis of the Final System}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Mass Matrix Approximation}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Jacobi Preconditioning}{7}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Orthogonal Basis Preconditioner}{8}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Discussion on Matrix Kronecker Product}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Permutation of Kronecker Product}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Mixed Product Property}{10}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Schur Complement Approximation}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}First Attempt}{12}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Schur Complement Approximate}{13}{subsubsection.2.3.2}

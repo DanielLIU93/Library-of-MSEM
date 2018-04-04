@@ -1,0 +1,107 @@
+\usepackage{amsmath,commath,amsfonts,mathrsfs,textcomp}
+\usepackage{psfrag}
+\usepackage[dvips]{graphicx}
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{pdfpages}
+\usepackage{pgfplots}
+\usepackage{datetime}
+\usepackage{rotating}
+\usepackage{framed}
+\usepackage{lipsum}
+\usepackage{caption} 
+\captionsetup[table]{skip=5pt}
+
+\usepackage[colorlinks,
+linkcolor=blue,
+urlcolor=black,
+anchorcolor=red,
+citecolor=red]{hyperref}
+
+%% turn on to use the Palatino font
+%\usepackage[sc]{mathpazo}
+
+%% choose the way of numbering the equations
+%\numberwithin{equation}{section}                  % number the equation like (1.1.1) (1.1.2) instead of (1) (2) (3)
+\renewcommand{\theequation}{\arabic{equation}}   % number the equation like (1) (2) (3) instead of (1.1.1) (1.1.2)
+
+%% Allows customization of titles
+\usepackage{titlesec} 
+%\renewcommand\thesection{\Roman{chapter}} % Roman numerals for the sections
+%\renewcommand\thesection{\Roman{section}} % Roman numerals for the sections
+%\renewcommand\thesubsection{\Roman{subsection}} % Roman numerals for subsections
+\titleformat{\chapter}[block]{\huge\bfseries\scshape}{\thechapter.}{1em}{} % Change the look of the section titles
+\titleformat{\section}[block]{\Large\bfseries\scshape}{\thesection}{1em}{}
+\titleformat{\subsection}[block]{\large\bfseries\scshape}{\thesubsection}{1em}{} % Change the look of the section titles
+
+%% chapter start from the same page
+%\usepackage{etoolbox}
+%\makeatletter
+%\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+%\makeatother
+
+%% the geometry of all pages
+\usepackage[hmarginratio=1:1,top=35mm,bottom=35mm,left=30mm,columnsep=30pt]{geometry}
+
+\usepackage{color}
+\definecolor{shadecolor}{rgb}{0.92,0.92,0.92}
+
+%% for boxed equations
+\usepackage[skins,theorems]{tcolorbox}
+\tcbset{highlight math style={enhanced,
+		colframe=red,colback=white,arc=0pt,boxrule=1pt}}
+
+%% set paragraph skip and the empty distance between two paragraphs
+\setlength{\parskip}{0.4cm}
+\setlength{\parindent}{0cm}
+
+%% (I forget the function of this)
+%\usepackage{xcolor}
+%\makeatletter
+%\def\mathcolor#1#{\@mathcolor{#1}}
+%\def\@mathcolor#1#2#3{%
+%	\protect\leavevmode
+%	\begingroup
+%	\color#1{#2}#3%
+%	\endgroup
+%}
+%\makeatother
+
+%% define the color of chaptername, sectionname and so on
+\usepackage{sectsty}% http://ctan.org/pkg/sectsty
+%\chapterfont{\color{red}}
+%\sectionfont{\color{blue}}
+%\subsectionfont{\color{green!80!black}}
+%\subsubsectionfont{\color{purple}}
+%\paragraphfont{\color{orange}}
+
+%% fancy page head and page foot
+\usepackage{fancyhdr}
+\renewcommand{\sectionmark}[1]{\markright{\thesection~ ~#1}}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername~\thechapter~~ #1}{}}
+\fancypagestyle{IHA-fancy-style}{%
+	\fancyhf{}
+	\fancyhead[LE,RO]{\slshape \nouppercase{\rightmark}}
+	\fancyhead[LO,RE]{\slshape \nouppercase{\leftmark}}
+	\fancyfoot[C]{\thepage\ of \pageref{TheLastPage}}% Custom footer
+	\renewcommand{\headrulewidth}{0.3pt}% Line at the header visible
+	\renewcommand{\footrulewidth}{0.2pt}% Line at the footer visible
+}
+% Redefine the plain page style
+\fancypagestyle{plain}{%
+	\fancyhf{}%
+	%	\fancyfoot[C]{\thepage\ of \pageref{LastPage}}%
+	\renewcommand{\headrulewidth}{0pt}% Line at the header invisible
+	\renewcommand{\footrulewidth}{0pt}% Line at the footer visible
+}
+
+%% now we can \begin a remark, definition or theorem
+\newtheorem{definition}{Definition}[section]
+\newtheorem{definition*}{Definition}
+\newtheorem{remark}{Remark}[section]
+\newtheorem{remark*}{Remark}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{theorem*}{Theorem}
+
+%% change the tilename of bib into References
+\renewcommand{\bibname}{References} 
